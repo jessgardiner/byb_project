@@ -1,2 +1,2 @@
-// Prints 'Hello world' message to the console
+// Prints message to the console
 console.log("Git is Awesome!");
